@@ -79,3 +79,8 @@ receber dados pessoais. Para uso real, adotar autenticação e banco persistente
 - https://fastapi.tiangolo.com/
 - https://docs.github.com/en/actions/tutorials/publish-packages/publish-docker-images
 - https://render.com/docs/deploy-hooks
+
+## Aplicação publicada
+
+API: https://lista-tarefas-devops.onrender.com
+Documentação: https://lista-tarefas-devops.onrender.com/docs
